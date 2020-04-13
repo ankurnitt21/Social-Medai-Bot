@@ -24,13 +24,13 @@ Download Chrome webdriver to enable Selenium to connect with your browser.
 
 ### Run following commands
 ` 
-git clone https://github.com/ranaankur39/Social-Medai-Bot.git
+$ git clone https://github.com/ranaankur39/Social-Medai-Bot.git
 `
 `
-cd Social-Media-Bot
+$ cd Social-Media-Bot
 `
 `
-pip install selenium
+$ pip install selenium
 `
 
 ### Now run any of the sript
