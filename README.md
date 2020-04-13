@@ -33,7 +33,7 @@ $ cd Social-Media-Bot
 $ pip install selenium
 ```
 
-### Now run any of the sript
+### Now run any of the script
 
 
 
