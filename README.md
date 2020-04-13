@@ -23,15 +23,15 @@ Download Chrome webdriver to enable Selenium to connect with your browser.
 - Now extract the downloaded zip file and copy the .exe file to the Python main directory
 
 ### Run following commands
-` 
+```sh
 $ git clone https://github.com/ranaankur39/Social-Medai-Bot.git
-`
-`
+```
+```sh
 $ cd Social-Media-Bot
-`
-`
+```
+```sh
 $ pip install selenium
-`
+```
 
 ### Now run any of the sript
 
